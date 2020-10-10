@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en HomeScreen debe de renderizar 1`] = `
+<div>
+  <h1>
+    Home
+  </h1>
+  <hr />
+  <pre
+    className="container"
+  >
+    {
+   "name": "Mariano",
+   "email": "mamamma@mama.com"
+}
+  </pre>
+</div>
+`;
+
+exports[`Pruebas en HomeScreen debe de renderizar el userContext 1`] = `
+<div>
+  <h1>
+    Home
+  </h1>
+  <hr />
+  <pre
+    className="container"
+  >
+    {
+   "name": "Mariano",
+   "email": "mamamma@mama.com"
+}
+  </pre>
+</div>
+`;
